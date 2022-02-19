@@ -5,6 +5,7 @@ One of the deliverables in many hydrological studies for flood protection are hy
 The user just needs to upload the txt file and then they may select the outputs. There are three options:  <br />
 (1) pdf document, <br />
 (2) excel document, and <br />
-(3) both of them. The default option is the second one. No software installation is required. <br />
+(3) both of them. <br />
+The default option is the second one. No software installation is required. <br />
 
 To complete this task, Excel VBA and  a host of python libraries were used such as openpyxl, VBA, streamlit, and pandas.
